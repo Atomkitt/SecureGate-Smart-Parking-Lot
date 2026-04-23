@@ -55,6 +55,6 @@ Manual Override: The Keypad responded instantly, proving the system’s ability 
 
 Conclusion
 
-This Arduino project provides a robust, real-time parking solution. By integrating FSM logic and noise-filtering, the system ensures high reliability and stability. The use of internal pull-up resistors and optimized wiring maintains a compact footprint, demonstrating how smart software and hardware integration effectively solve complex automation needsใ
+This Arduino project provides a robust, real-time parking solution. By integrating FSM logic and noise-filtering, the system ensures high reliability and stability. The use of internal pull-up resistors and optimized wiring maintains a compact footprint, demonstrating how smart software and hardware integration effectively solve complex automation needs.
 
 <img width="568" height="512" alt="image" src="https://github.com/user-attachments/assets/6a0434b1-47ed-434d-9156-3843a9d5e681" />
